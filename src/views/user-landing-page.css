@@ -371,3 +371,114 @@
   margin-bottom: 0;
   text-decoration: none;
 }
+.user-landing-page-contentcarditem52 {
+  left: 200px;
+  width: 1100px;
+  bottom: 21px;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.user-landing-page-media2 {
+  width: 245px;
+  height: 260px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0px;
+}
+.user-landing-page-cover2 {
+  top: 0px;
+  left: 0px;
+  width: 245px;
+  height: 260px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(221, 221, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-size: cover;
+  background-image: url('https://images.unsplash.com/photo-1493612276216-ee3925520721?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDEzfHxyYW5kb20lMjB8ZW58MHx8fHwxNjc4MDQ2ODA2&ixlib=rb-4.0.3&w=300');
+}
+.user-landing-page-cardcontent2 {
+  display: flex;
+  padding: 25px 50px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.user-landing-page-text31 {
+  color: var(--dl-color-default-mutedcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 15px;
+}
+.user-landing-page-text33 {
+  color: var(--dl-color-default-textcolor);
+  width: 133px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 32px;
+  margin-right: 0;
+  margin-bottom: 15px;
+}
+.user-landing-page-text38 {
+  color: rgba(132, 132, 132, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 26px;
+  margin-right: 0;
+  margin-bottom: 15px;
+}
+.user-landing-page-tags2 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.user-landing-page-navlink5 {
+  display: contents;
+}
+.user-landing-page-text43 {
+  color: var(--dl-color-default-primarycolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 15px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.user-landing-page-navlink6 {
+  display: contents;
+}
+.user-landing-page-text45 {
+  color: var(--dl-color-default-primarycolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

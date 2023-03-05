@@ -130,6 +130,59 @@ const UserLandingPage = (props) => {
           </div>
         </div>
       </div>
+      <div className="user-landing-page-contentcarditem52">
+        <div className="user-landing-page-media2">
+          <div className="user-landing-page-cover2"></div>
+        </div>
+        <div className="user-landing-page-cardcontent2">
+          <h6 className="user-landing-page-text31 h62">
+            <span>20 JAN 2023</span>
+          </h6>
+          <h3 className="user-landing-page-text33 h32">
+            <span>
+              <span>
+                Start-up 3
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: ' ',
+                  }}
+                />
+              </span>
+              <br></br>
+              <span></span>
+            </span>
+          </h3>
+          <span className="user-landing-page-text38 paragraph2">
+            <span>
+              <span>
+                Slate helps you see how many more days
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: ' ',
+                  }}
+                />
+              </span>
+              <br></br>
+              <span>work to reach.</span>
+            </span>
+          </span>
+          <div className="user-landing-page-tags2">
+            <Link to="/donation-page" className="user-landing-page-navlink5">
+              <h6 className="user-landing-page-text43 h62">
+                <span>Donate</span>
+              </h6>
+            </Link>
+            <Link
+              to="/start-up-info-page"
+              className="user-landing-page-navlink6"
+            >
+              <h6 className="user-landing-page-text45 h62">
+                <span>More</span>
+              </h6>
+            </Link>
+          </div>
+        </div>
+      </div>
     </div>
   )
 }
